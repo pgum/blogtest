@@ -20,7 +20,7 @@ jobs:
       # Directory to deploy
       #build_dir: # optional
       # Personnal access token
-      gh_token: $SLIDES_PUBLISH_TOKEN
+        gh_token: ${{ secrets.SLIDES_PUBLISH_TOKEN }}
       # FQDN to deploy in CNAME file
       #fqdn: # optional
       # Branch targeted for the deployment
