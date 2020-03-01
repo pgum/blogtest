@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
-gem "bundler", ">=1.17.3"
-gem "nokogiri", ">= 1.10.8"
-gem "jekyll", ">= 3.6.3"
-#gem "github-pages", group: :jekyll_plugins
-gem "alembic-jekyll-theme"
+gem "bundle"
+gem "github-pages", '197', group: :jekyll_plugins
+
+# enable tzinfo-data for local build
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'jekyll-paginate'
