@@ -11,10 +11,11 @@ description: My interpretation of reality
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://pgum.github.io"
+url: "https://pgum.github.io"
 
 # baseurl should be an empty string
-#baseurl: "blogtest/"
+baseurl: "blogtest/"
+repository: pgum/blogtest
 
 # --- Navigation bar options --- #
 
@@ -59,6 +60,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
+
 author:
   name: Piotr Jacek Gumulka
 
