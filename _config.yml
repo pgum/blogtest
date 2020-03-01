@@ -16,7 +16,7 @@ url: "https://pgum.github.io"
 # baseurl should be an empty string
 baseurl: "blogtest/"
 
-
+repository: pgum/blogtest
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
