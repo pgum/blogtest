@@ -208,6 +208,8 @@ GEM
     octokit (4.16.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
+    panthera-jekyll (1.0.4)
+      jekyll (~> 3.8)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
@@ -241,6 +243,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  panthera-jekyll
 
 BUNDLED WITH
    2.1.4
