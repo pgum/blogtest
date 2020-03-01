@@ -165,8 +165,8 @@ img {
     padding: 0;
   }
 }
-/*PJG KURWA */
-.avatar-container {
+
+.navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
   width: 50px;
@@ -785,4 +785,30 @@ pre {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+/* PJG */
+.post-category-concepts {
+  background-color: #3398FB;
+}
+
+.post-category-scenarios {
+  background-color: #98FB98;
+}
+
+.post-category-checklists {
+  background-color: #FB9833;
+}
+.box,
+.box_done,
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item input {
+  margin: 0 0.2em 0.25em -1.6em;
+  vertical-align: middle;
+}
+
+.task-list-item+.task-list-item {
+  margin-top: 3px;
 }

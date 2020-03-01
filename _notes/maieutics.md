@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Maieutics - Socratic method #2"
-date:   2020-02-29 20:43:40 +0100
-categories: notes
----
-
 # Maieutics - Socratic method #2
 gr. μαιευτικός  maieutikhos
 It is named after the Classical Greek philosopher Socrates and is introduced by him in Plato's Theaetetus as midwifery (maieutics) because it is employed to bring out definitions implicit in the interlocutors' beliefs, or to help them further their understanding. [1][wiki] 

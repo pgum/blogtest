@@ -1,10 +1,3 @@
----
-layout: post
-title:  "8 wastes od manufacturing - DOWNTIME"
-date:   2020-02-29 20:43:40 +0100
-categories: notes
----
-
 # 8 wastes od manufacturing - DOWNTIME
 ## Downtime is the consequence of waste
 Its also acronym for 8 types of waste as defined by lean management.

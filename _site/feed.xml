@@ -1,110 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My website</title>
-    <description>A virtual proof that I'm awesome</description>
+    <title>pgum thinking space</title>
+    <description>My interpretation of reality</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Siemaneczko</title>
+        <title>Workplace checklist</title>
         <description>
           
-          #siemanko!
+          Workplace checklist
+
+[ ] Asdf 1 
+[ ] Asdf 2 
+[ ] Asdf 3
 
         </description>
-        <pubDate>Sun, 01 Mar 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2020-03-01-siemanko/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-03-01-siemanko/</guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/checklists/workplace_checklist/</link>
+        <guid isPermaLink="true">http://localhost:4000/checklists/workplace_checklist/</guid>
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Teams vision of goal</title>
+        <description>
+          This is where I will tell my friends way too much about me - 
+          Goals Team identifies “ideal” vision Team asserts current state Team defines steps toward “ideal” state Time and place Around 1 hour long Room to sit in circle Participants Group of interest Moderator Prerequisites Team members have defined team goals Team members understand requirements for empirical process Room and items needed...
+        </description>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/scenarios/vision_of_goal/</link>
+        <guid isPermaLink="true">http://localhost:4000/scenarios/vision_of_goal/</guid>
+      </item>
+    
+      <item>
+        <title>Turning grumble into actions</title>
+        <description>
+          This is where I will tell my friends way too much about me - 
+          Goals Group understand negative effects of grumble Group can identify underlaying needs from current work Group assign working groups or individuals to most important actions identified Time and place Around 1 hour long Room to sit in circle Participants Group of interest Moderator Prerequisites Group members know each other fairly...
+        </description>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/scenarios/turning_grumble_into_actions/</link>
+        <guid isPermaLink="true">http://localhost:4000/scenarios/turning_grumble_into_actions/</guid>
+      </item>
+    
+      <item>
+        <title>Opportunities_and_challenges</title>
         <description>
           
-          You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...
+          Opportunities and challenges Goals Identification Team and new SM both define potential opportunities and challenges ahead Defining clear rules and values from the start of cooperation in new team Team identifies areas they treat as important Fresh start with health attitude Participants The Team Scrum Master Prerequisites Room and items...
         </description>
-        <pubDate>Sat, 29 Feb 2020 11:43:40 -0800</pubDate>
-        <link>http://localhost:4000/2020-02-29-welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-29-welcome-to-jekyll/</guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/opportunities_and_challenges/</link>
+        <guid isPermaLink="true">http://localhost:4000/opportunities_and_challenges/</guid>
       </item>
     
       <item>
-        <title>Test markdown</title>
-        <description>
-          Each post also has a subtitle - 
-          You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
-        </description>
-        <pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-28-test-markdown/</guid>
-      </item>
-    
-      <item>
-        <title>Flake it till you make it</title>
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
-        </description>
-        <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</guid>
-      </item>
-    
-      <item>
-        <title>To be</title>
-        <description>
-          ... or not to be? - 
-          To be, or not to be–that is the question: Whether ‘tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep– No more–and by a sleep to say we...
-        </description>
-        <pubDate>Fri, 13 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-02-13-hamlet-monologue/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-13-hamlet-monologue/</guid>
-      </item>
-    
-      <item>
-        <title>Dear diary</title>
+        <title>Fishbowl</title>
         <description>
           
-          What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive! I’m thinking...
+          Fishbowl Goals Deep-dive into selected topic of high importance by group of interest Well defined list of expectations Vision of desired outcome Enabling all participants to voice their opinions over key topics Deepens participants observation skills Participants Group of interest Moderator Scrum Master Prerequisites Before start refresh relevant knowledge among...
         </description>
-        <pubDate>Tue, 27 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-01-27-dear-diary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-27-dear-diary/</guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fishbowl/</link>
+        <guid isPermaLink="true">http://localhost:4000/fishbowl/</guid>
       </item>
     
       <item>
-        <title>Soccer</title>
-        <description>
-          Best sport ever! - 
-          From Wikipedia: Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.[3][4][5][6] The game is played on a rectangular...
-        </description>
-        <pubDate>Mon, 19 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-01-19-soccer/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-19-soccer/</guid>
-      </item>
-    
-      <item>
-        <title>Pirates arrrr</title>
+        <title>End_the_sentence</title>
         <description>
           
-          Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the...
-        </description>
-        <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-01-15-pirates/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-15-pirates/</guid>
-      </item>
-    
-      <item>
-        <title>First post!</title>
-        <description>
           
-          This is my first post, how exciting!
+End the sentence
 
         </description>
-        <pubDate>Sun, 04 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-04-first-post/</guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/end_the_sentence/</link>
+        <guid isPermaLink="true">http://localhost:4000/end_the_sentence/</guid>
+      </item>
+    
+      <item>
+        <title>You_dont_care_about_it_if_you_dont_measure_it</title>
+        <description>
+          
+          You don’t care about it if you don’t measure it Description Word measure can be substituted with: notice, speak about, rise up, etc. Without benchmarking there is no possible way to make rational decision. If problems aren’t noticed, or spoken about there is no way to react. Purpose Small set...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/you_dont_care_about_it_if_you_dont_measure_it/</link>
+        <guid isPermaLink="true">http://localhost:4000/you_dont_care_about_it_if_you_dont_measure_it/</guid>
+      </item>
+    
+      <item>
+        <title>Maieutics</title>
+        <description>
+          
+          Maieutics - Socratic method #2 gr. μαιευτικός maieutikhos It is named after the Classical Greek philosopher Socrates and is introduced by him in Plato’s Theaetetus as midwifery (maieutics) because it is employed to bring out definitions implicit in the interlocutors’ beliefs, or to help them further their understanding. 1 It’s...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/maieutics/</link>
+        <guid isPermaLink="true">http://localhost:4000/maieutics/</guid>
+      </item>
+    
+      <item>
+        <title>8 wastes od manufacturing - DOWNTIME</title>
+        <description>
+          This is where I will tell my friends way too much about me - 
+          Downtime is the consequence of waste Its also acronym for 8 types of waste as defined by lean management. In IT some kinds of waste is hard to observe and measure as we don’t produce physical objects. Defects: How many times client says “It’s not working” or “It’s not what...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/concepts/downtime_8wastes/</link>
+        <guid isPermaLink="true">http://localhost:4000/concepts/downtime_8wastes/</guid>
       </item>
     
   </channel>

@@ -1,12 +1,3 @@
----
-layout: post
-title:  "Vision of goal"
-date:   2020-02-29 20:43:40 +0100
-categories: scenarios 
----
-
-
-
 # Vision of goal
 
 ## Goals

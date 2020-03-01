@@ -16,6 +16,18 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
+<!-- Categories -->
+
+
+              {%- for category in site.categories -%}
+              {% capture category_name %}{{ category | first }}{% endcapture %}
+        <li class="navlinks-container">
+              <li><a class="post-category-{{ category_name }}" href="#">{{ category_name }}</a></li>
+              </li>
+              {%- endfor -%}
+      
+
+
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="navlinks-container">

@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Opportunities and challenges"
-date:   2020-02-29 20:43:40 +0100
-categories: scenarios 
----
-
 # Opportunities and challenges
 
 ## Goals

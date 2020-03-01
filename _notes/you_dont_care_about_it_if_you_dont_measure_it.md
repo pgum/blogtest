@@ -1,10 +1,3 @@
----
-layout: post
-title:  "You don't care about it if you don't *measure* it"
-date:   2020-02-29 20:43:40 +0100
-categories: notes
----
-
 # You don't care about it if you don't *measure* it
 ## Description
 Word *measure* can be substituted with: **notice**, **speak about**, **rise up**, *etc*.

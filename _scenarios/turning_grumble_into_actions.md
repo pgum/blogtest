@@ -1,11 +1,3 @@
----
-layout: post
-title:  "Turning grumble into actions"
-date:   2020-02-29 20:43:40 +0100
-categories: scenarios 
----
-
-
 # Turning grumble into actions
 
 ## Goals
