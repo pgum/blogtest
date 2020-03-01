@@ -17,7 +17,7 @@ description: A virtual proof that I'm awesome
 #baseurl: ""
 
 # --- Navigation bar options --- #
-
+github: [metadata]
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
